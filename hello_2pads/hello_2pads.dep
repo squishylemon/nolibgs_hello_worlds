@@ -1,0 +1,10 @@
+hello_2pads.o: hello_2pads.c \
+ c:/nolibgs_hello_worlds/psyq/include/sys/types.h \
+ c:/nolibgs_hello_worlds/psyq/include/stdio.h \
+ c:/nolibgs_hello_worlds/psyq/include/libgte.h \
+ c:/nolibgs_hello_worlds/psyq/include/libetc.h \
+ c:/nolibgs_hello_worlds/psyq/include/libgpu.h \
+ c:/nolibgs_hello_worlds/psyq/include/libapi.h \
+ c:/nolibgs_hello_worlds/psyq/include/kernel.h \
+ c:/nolibgs_hello_worlds/psyq/include/r3000.h \
+ c:/nolibgs_hello_worlds/psyq/include/asm.h
